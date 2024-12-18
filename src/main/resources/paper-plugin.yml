@@ -1,0 +1,4 @@
+name: ExplodingBee
+version: '1.0-SNAPSHOT'
+main: org.dk5574.explodingBee.ExplodingBee
+api-version: '1.21'
